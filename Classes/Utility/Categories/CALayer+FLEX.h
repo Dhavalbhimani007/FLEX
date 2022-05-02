@@ -10,6 +10,6 @@
 
 @interface CALayer (FLEX)
 
-@property (nonatomic) BOOL flex_continuousCorners;
+//@property (nonatomic) BOOL flex_continuousCorners;
 
 @end

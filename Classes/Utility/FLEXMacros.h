@@ -66,9 +66,9 @@ NS_INLINE CGRect FLEXRectSetY(CGRect r, CGFloat y) {
 }
 
 /// Adjusts the size.width of an existing rect
-NS_INLINE CGRect FLEXRectSetWidth(CGRect r, CGFloat width) {
+/*NS_INLINE CGRect FLEXRectSetWidth(CGRect r, CGFloat width) {
     r.size.width = width; return r;
-}
+}/*
 
 /// Adjusts the size.height of an existing rect
 NS_INLINE CGRect FLEXRectSetHeight(CGRect r, CGFloat height) {
