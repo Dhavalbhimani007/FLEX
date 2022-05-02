@@ -40,7 +40,7 @@
     //        self.allowsEdgeAntialiasing = YES;
     //        self.edgeAntialiasingMask = kCALayerLeftEdge | kCALayerRightEdge | kCALayerTopEdge | kCALayerBottomEdge;
 //        }
-    }
+//    }
 }
 
 @end
